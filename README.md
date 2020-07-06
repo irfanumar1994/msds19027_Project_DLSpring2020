@@ -6,4 +6,7 @@ Course website: http://im.itu.edu.pk/deep-learning-spring-2020/
 https://www.kaggle.com/c/prostate-cancer-grade-assessment/data
 
 # Results:
+
 ![GitHub Logo]((https://github.com/irfanumar1994/msds19027_Project_DLSpring2020/blob/master/Results/results.png)
+
+![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/vggreults.JPG)
