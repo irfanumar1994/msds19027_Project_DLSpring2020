@@ -7,5 +7,5 @@ https://www.kaggle.com/c/prostate-cancer-grade-assessment/data
 
 # Results:
 
-![GitHub Logo]((https://github.com/irfanumar1994/msds19027_Project_DLSpring2020/blob/master/Results/results.JPG)
+![GitHub Logo](https://github.com/irfanumar1994/msds19027_Project_DLSpring2020/blob/master/results_.JPG)
 
