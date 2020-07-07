@@ -12,3 +12,5 @@ The identification of prostate cancer is depending on the grading of prostate ti
 
 ![GitHub Logo](https://github.com/irfanumar1994/msds19027_Project_DLSpring2020/blob/master/results_.JPG)
 
+# Model Weights:
+https://drive.google.com/drive/folders/1I4IciZSW8zKnqM6mK6wpCufQg45LKQTZ?usp=sharing
